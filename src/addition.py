@@ -1,5 +1,6 @@
 # app.py
 # This is a test commit
+# 3 unit test cases
 def add(a, b):
     return a + b
 
